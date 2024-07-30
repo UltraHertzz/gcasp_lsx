@@ -1,3 +1,4 @@
 eval_datas/*
-chair.tar
+train_datas
+*.tar
 
